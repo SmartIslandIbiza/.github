@@ -1,7 +1,3 @@
-<img src="./images/si_logo.png" />
-
-# Smart Island Ibiza
-
 We are SMART ISLAND, an Internet of Things (loT) Living Lab and Service Provider for related applications in Ibiza, connecting people, things & territory through cutting-edge technology. 
 
 We have created a game-changing experimental field based on low power wireless technology to explore local and global resilience solutions
