@@ -1,2 +1,1 @@
-# .github
-Smart Island Ibiza
+# Smart Island Ibiza
